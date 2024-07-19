@@ -1,1 +1,27 @@
-{}
+{
+    "game.build_rush.huge": "Build Rush: Великий (9x9)",
+    "game.build_rush.flags.signal": "Build Rush: Сигнальні прапори",
+    "generic.build_rush.score": "%d%%",
+    "text.build_rush.eliminated.self": "Вас виключено з гри!",
+    "text.build_rush.no_elimination": "Вітаємо! Ніхто не був виключений з гри!",
+    "text.build_rush.finished": "Ви правильно відтворили усе спорудження!",
+    "text.build_rush.win": "%s переміг після %d раундів!",
+    "text.build_rush.win.self": "Ви перемогли після %d раундів!",
+    "title.build_rush.perfect": "Чудово!",
+    "title.build_rush.eliminated": "Виключено з гри!",
+    "sidebar.build_rush.build": "Спорудження",
+    "sidebar.build_rush.round": "Раунд %d",
+    "sidebar.build_rush.players_left": "Залишилося %d гравців",
+    "sidebar.build_rush.author": "від %d",
+    "bar.build_rush.time_left": "%s:%s залишилося",
+    "error.build_rush.platform.not_found": "Структура платформи '%s' недоступна",
+    "game.build_rush": "Build Rush",
+    "map.build_rush.rock_candy_mines": "Цукрові шахти",
+    "game.build_rush.small": "Build Rush: Невеликий (5x5)",
+    "game.build_rush.regular": "Build Rush: Звичайний (7x7)",
+    "text.build_rush.eliminated": "%s виключено з гри! Вони отримали %s відсотків за правильне спорудження.",
+    "text.build_rush.score": "Ви отримали %s за правильне спорудження!",
+    "text.build_rush.win.unknown": "Хтось переміг після %d раундів... Але ми не знаємо хто саме? (зв'яжіться з автором гри)",
+    "bar.build_rush.perfect_build": "Чудове спорудження!",
+    "error.build_rush.region.center.not_found": "Регіон 'center' не знайдено"
+}
